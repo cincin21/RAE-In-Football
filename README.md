@@ -6,6 +6,8 @@ Relative Age Effect in Football.
 
 The purpose of this project is to analyze a relative age effect (RAE) in football by comparing players attributes from FIFA 17 dataset.
 
+* If you want to turn off the coding part just download the html version from "hmtl_version" folder.
+
 ### Methods Used
 
 - [Pandas](https://pandas.pydata.org/),
